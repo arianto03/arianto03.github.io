@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.91a5895a.chunk.css",
+    "main.js": "/static/js/main.c7106d52.chunk.js",
+    "main.js.map": "/static/js/main.c7106d52.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fafa68b7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fafa68b7.js.map",
+    "static/js/2.2ca56fa9.chunk.js": "/static/js/2.2ca56fa9.chunk.js",
+    "static/js/2.2ca56fa9.chunk.js.map": "/static/js/2.2ca56fa9.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.96619c90ae8689186f7a6bd65cac4d0c.js": "/precache-manifest.96619c90ae8689186f7a6bd65cac4d0c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.91a5895a.chunk.css.map": "/static/css/main.91a5895a.chunk.css.map",
+    "static/js/2.2ca56fa9.chunk.js.LICENSE.txt": "/static/js/2.2ca56fa9.chunk.js.LICENSE.txt",
+    "static/media/aneka-makanan.jpg": "/static/media/aneka-makanan.8ba6661d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fafa68b7.js",
+    "static/js/2.2ca56fa9.chunk.js",
+    "static/css/main.91a5895a.chunk.css",
+    "static/js/main.c7106d52.chunk.js"
+  ]
+}
